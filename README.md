@@ -1,2 +1,2 @@
-# reddit-spectra
-Mapping Discourse - Navigating Political Topics with LDA in Reddit's Divided Threads
+# Navigating Reddit's Political Terrain Through LDA-Powered Topic Modelling
+
