@@ -18,7 +18,14 @@ Primary: *What are the predominant topics discussed in the comments of the most 
 
 
 ## Methods
+### Analysis Strategy
+To address the primary research question – understanding the predominant topics discussed in the comments of the most polarized subreddits and the extent of alignment with subreddit titles versus reflecting political views – our analysis strategy integrates various approaches. We plan to employ Latent Dirichlet Allocation (LDA) for topic modeling to extract latent themes from comments. Additionally, we'll conduct text and sentiment analysis to grasp the overall tone, employing keyword frequency analysis to identify terms associated with political views or alignment with subreddit topics. Visualization techniques like multidimensional scaling, word clouds, and bar charts will be utilized to present findings in an accessible manner. Comparative analyses will assess topic distributions among left-wing and right-wing polarized subreddits.
 
+### Managing Dataset Size
+To handle dataset size, we'll consider subsampling to focus on a representative subset while maintaining diversity. Data reduction techniques may be applied based on factors like computational power/time.
+
+### Data Cleaning and Transformation
+Cleaning procedures involve removing duplicates, irrelevant data, and anonymizing user information to uphold privacy. Text data preprocessing will include tokenization, stemming, and the removal of stop words to prepare it for LDA modeling. Enrichment will involve incorporating subreddit metadata, such as titles and descriptions, to facilitate alignment analysis.
 
 ## Organization within the team
 Considering both my teammate and I have similar schedules, we will be pair programming the entire project. Instead of dividing the work evenly, we prefer working together on every aspect as we can share ideas.
