@@ -1,2 +1,2 @@
 # reddit-spectra
-avigating Political Topics with LDA in Polarized Subreddits
+Mapping Discourse - Navigating Political Topics with LDA in Reddit's Divided Threads
