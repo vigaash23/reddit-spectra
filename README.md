@@ -5,10 +5,9 @@ Our project, building upon the foundation laid by the [referenced research paper
 
 ## Research Questions
 Primary: *What are the predominant topics discussed in the comments of the most polarized subreddits, and to what extent do these align with the subreddit's title/description versus reflecting political views?*
-> Additional Questions (EDIT THESE)
+> Additional Questions
 > - How does the identified topic distribution vary between the most polarized subreddits on the left and right sides of the political spectrum?
 > - Are the topics driving polarization on Reddit temporally aligned with external events, and if so, how does this temporal alignment manifest in the comments of the most polarized subreddits?
-> - How does the individual-level polarization, if identified, manifest within the comments of the most polarized subreddits, and what role do new users play in the observed system-level shift during 2016 in polarization?
 
 
 
