@@ -14,7 +14,7 @@ Primary: *What are the predominant topics discussed in the comments of the most 
 
 
 ## Datasets
-We will use the Text Dataset which includes both the metadata and text for both comments and submissions on Reddit from Jan 2019 - June 2021.
+We will use the Text Dataset which includes both the metadata and text body for comments on Reddit from Jan 2019 - June 2021.
 
 ## Methods
 ### Analysis Strategy
