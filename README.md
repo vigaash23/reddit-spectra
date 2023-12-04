@@ -1,4 +1,5 @@
 # Navigating Reddit's Political Terrain Through LDA-Powered Topic Modelling
+[Data Story Via Medium](https://medium.com/@vigaash.sivasothy/navigating-reddits-political-terrain-through-lda-powered-topic-modelling-4102270bd2b7)
 
 ## Abstract
 Our project, building upon the foundation laid by the [referenced research paper](https://www.nature.com/articles/s41586-021-04167-x), endeavors to uncover the intricacies of online polarization within the most polarized subreddits. By applying Latent Dirichlet Allocation (LDA) to comments from politically divided communities, we aim to dissect the main topics discussed, discerning whether they align with the subreddit's purpose or stem from political perspectives. The project's motivation lies in comprehending the origins of polarization identified in the paper, shedding light on the thematic underpinnings of divisive online discourse. Through data cleaning, anonymization, and LDA modeling, we seek to draw meaningful insights. The main visualization, a 2D plane depicting the topic spread via multidimensional scaling, will offer a visual narrative of the prevalent themes, enabling conclusions about the relationship between discussed topics, subreddit descriptions, and political views.
@@ -27,4 +28,4 @@ To handle dataset size, we'll consider subsampling to focus on a representative 
 Cleaning procedures involve removing duplicates, irrelevant data, and anonymizing user information to uphold privacy. Text data preprocessing will include tokenization, stemming, and the removal of stop words to prepare it for LDA modeling. Enrichment will involve incorporating subreddit metadata, such as titles and descriptions, to facilitate alignment analysis.
 
 ## Organization within the team
-Considering both my teammate and I have similar schedules, we will be pair programming the entire project. Instead of dividing the work evenly, we prefer working together on every aspect as we can share ideas.
+Considering both my teammate and I have similar schedules, we will be pair programming the entire project. Instead of dividing the work evenly, we prefer working together on every aspect as we can share ideas. In addition, the data story was written together with both team members.
