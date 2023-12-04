@@ -25,4 +25,4 @@ To handle dataset size, we'll consider subsampling to focus on a representative 
 Cleaning procedures involve removing duplicates, irrelevant data, and anonymizing user information to uphold privacy. Text data preprocessing will include tokenization, stemming, and the removal of stop words to prepare it for LDA modeling. Enrichment will involve incorporating subreddit metadata, such as titles and descriptions, to facilitate alignment analysis.
 
 ## Organization within the team
-Considering both my teammate and I have similar schedules, we will be pair programming the entire project. Instead of dividing the work evenly, we prefer working together on every aspect as we can share ideas. In addition, the data story was written together with both team members.
+Considering both my teammate and I have similar schedules, we will be pair programming the entire project. Instead of dividing the work evenly, we prefer working together on every aspect as we can share ideas. In addition, the data story was written together with both team members present at all times.
